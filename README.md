@@ -34,3 +34,7 @@ Docker file provided in the project, build docker image using following cmd
 
     docker build -t hackerstory:1.0
     
+<h2> Swagger Document </h2>
+
+Swagger document available at following url http://localhost:PORT/swagger-ui.html
+    
